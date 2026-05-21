@@ -1,1 +1,22 @@
-/* Add CSS Styling */
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+.group {
+ background-color: red;
+ font-family: Verdana, Geneva, sans-serif;
+}
+
+.special,
+#unique2 {
+ font-size: 24px;
+}
+
+#unique {
+ color: blue;
+ font-size: 36px;
+}
+
+#unique2 {
+ background-color: lightgreen;
+ font-weight: bold;
+}
