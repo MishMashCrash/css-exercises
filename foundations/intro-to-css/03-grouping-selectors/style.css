@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+.l-button,
+.r-button {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', serif;
+}
+
+.l-button {
+background-color: black;
+color: white;
+}
+
+.r-button {
+  background-color: yellow;
+  color: black;
+}
